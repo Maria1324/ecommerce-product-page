@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot.png)
+<img src="https://github.com/Maria1324/ecommerce-product-page/blob/main/images/Screenshot.png" alt="Screenshot" style="max-width: 100%;">
 
 
 ### Links
